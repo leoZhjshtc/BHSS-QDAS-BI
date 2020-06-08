@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BHSS-QDAS-BI:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BHSS-QDAS-BI</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="BHSS-QDAS-BI-0.0.1.war">
+      <element id="artifact" artifact-name="BHSS-QDAS-BI:war exploded" />
+    </root>
+  </artifact>
+</component>
